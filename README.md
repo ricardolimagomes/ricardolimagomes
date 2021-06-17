@@ -1,7 +1,7 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ricardo Lima!
+### Hi there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ricardo Lima!
 
 
-![Github Followers] (https://img.shields.io/github/followers/RICARDOLIMAGOMES?style=social) ![Stars in my Profile] (https://img.shields.io/github/stars/ricardolimagomes?style=social)
+![Github Followers](https://img.shields.io/github/followers/RICARDOLIMAGOMES?style=social) ![Stars in my Profile](https://img.shields.io/github/stars/ricardolimagomes?style=social)
 
 ---
 
@@ -13,7 +13,8 @@ In my spare time, I dedicate myself to other areas of personal and career intere
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker-1.svg" alt="CSS Logo" width="50" height="50"/>
+
 
 ---
 
