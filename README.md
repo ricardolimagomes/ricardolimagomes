@@ -1,5 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Ricardo Lima!
-<!--
+
 
 **ricardolimagomes/ricardolimagomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,4 +32,4 @@ In my spare time, I dedicate myself to other areas of personal and career intere
 
 
 
--->
+
